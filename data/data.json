@@ -1,0 +1,94 @@
+{
+  "vehicles": [
+    {
+      "brand": "BMW",
+      "model": "X5",
+      "license_plate": "A111111",
+      "consumption": 9,
+      "cost_per_hour": 20,
+      "cost_per_day": 400,
+      "cost_per_week": 2000
+    },
+    {
+      "brand": "BMW",
+      "model": "X4",
+      "license_plate": "B111111",
+      "consumption": 9,
+      "cost_per_hour": 18,
+      "cost_per_day": 380,
+      "cost_per_week": 1800
+    },
+    {
+      "brand": "BMW",
+      "model": "X3",
+      "license_plate": "C111111",
+      "consumption": 9,
+      "cost_per_hour": 18,
+      "cost_per_day": 380,
+      "cost_per_week": 1800
+    },
+    {
+      "brand": "BMW",
+      "model": "X2",
+      "license_plate": "D111111",
+      "consumption": 9,
+      "cost_per_hour": 17,
+      "cost_per_day": 350,
+      "cost_per_week": 1700
+    },
+    {
+      "brand": "Audi",
+      "model": "A6",
+      "license_plate": "E111111",
+      "consumption": 8,
+      "cost_per_hour": 17,
+      "cost_per_day": 350,
+      "cost_per_week": 1700
+    },
+    {
+      "brand": "Audi",
+      "model": "Q2",
+      "license_plate": "F111111",
+      "consumption": 8,
+      "cost_per_hour": 20,
+      "cost_per_day": 400,
+      "cost_per_week": 2000
+    },
+    {
+      "brand": "Audi",
+      "model": "A7",
+      "license_plate": "G111111",
+      "consumption": 8,
+      "cost_per_hour": 18,
+      "cost_per_day": 380,
+      "cost_per_week": 1800
+    },
+    {
+      "brand": "VW",
+      "model": "Passat",
+      "license_plate": "H111111",
+      "consumption": 7,
+      "cost_per_hour": 17,
+      "cost_per_day": 350,
+      "cost_per_week": 1700
+    },
+    {
+      "brand": "VW",
+      "model": "Golf",
+      "license_plate": "I111111",
+      "consumption": 7,
+      "cost_per_hour": 10,
+      "cost_per_day": 200,
+      "cost_per_week": 1000
+    },
+    {
+      "brand": "VW",
+      "model": "Tiguan",
+      "license_plate": "J111111",
+      "consumption": 7,
+      "cost_per_hour": 20,
+      "cost_per_day": 400,
+      "cost_per_week": 2000
+    }
+  ]
+}
